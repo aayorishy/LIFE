@@ -1,2 +1,9 @@
 # LIFE
-优生活 - ULIFE 一款简约而不单调的主题
+
+Typecho theme - LIFE 1.0.0
+
+New version：1.0.0
+
+Style：Simplicity
+
+Theme：Typecho
